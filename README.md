@@ -66,18 +66,17 @@ Risk band assignment for business decision-making
 
 Two main models were developed:
 
-Logistic Regression
+### Logistic Regression
 Logistic Regression was used as a baseline model because it is simple, interpretable, and commonly used in credit risk modeling.
 
-XGBoost Classifier
+### XGBoost Classifier
 XGBoost was used as the advanced model because it can capture non-linear relationships, handle complex feature interactions, and generally performs well on structured tabular data.
 
-Evaluation Metrics
+## Evaluation Metrics
 Since the dataset is imbalanced, accuracy alone is not enough. The project uses the following metrics:
 ROC-AUC
 Precision
 Recall
 F1-score
 Confusion Matrix
-
 *Recall is especially important because missing high-risk customers may lead to financial losses.
