@@ -6,7 +6,8 @@ This project focuses on predicting Automobile loan default risk for a financial 
 
 The project simulates a real-world credit risk use case where machine learning can support loan approval decisions, risk-based segmentation, and portfolio risk management.
 
-<img width="832" height="441" alt="image" src="https://github.com/user-attachments/assets/93ca6ba2-fc6d-4d6e-8542-a8f13e3b3986" />
+<img width="2752" height="1536" alt="Gemini_Generated_Image_al83utal83utal83" src="https://github.com/user-attachments/assets/19fccdea-fedf-46ad-885f-8897951e248c" />
+
 
 
 ## Business Problem
